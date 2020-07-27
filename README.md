@@ -7,9 +7,15 @@
 
 ## :movie_camera: Movies
 
+- [**Apna Asmaan**](https://www.imdb.com/title/tt1073097/) `[2017], India, Hindi Movie` Drama. In order to make their autistic child a genius, a couple injects a drug into his body, only to face drastic consequences later.
+
+
 ## :tv: TV-Shows
 
-- Atypical Streaming on Netflix
+- [**Atypical**](https://www.imdb.com/title/tt6315640/) `[2017], USA` Drama+Comedy Streaming on Netflix. Protagonist is an 18 y/o on the spectrum.
+- [**She-Ra and the Princesses of Power**](https://www.imdb.com/title/tt7745956/) `[2018-2020], USA` Animation/Action/Adventure. Streaming on Netflix. A character Entrapta, as confirmed by the show creator, is written as an autistic princess.
+- [**The Good Doctor**](https://www.imdb.com/title/tt6470478/) `[2017], USA` Drama, Streaming on Hulu; ABC show. Protagonist is a young surgeon with autism ans savant syndrome.
+
 
 For autism resources checkout this awesome list:
 
