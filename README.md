@@ -17,9 +17,11 @@
 - [**The Good Doctor**](https://www.imdb.com/title/tt6470478/) `[2017], USA` Drama, Streaming on Hulu; ABC show. Protagonist is a young surgeon with autism ans savant syndrome.
 
 
-For autism resources checkout this awesome list:
+---
 
-[awesome-autism](https://github.com/aspergirl-git/awesome-autism)
+*For autism resources checkout this awesome list:
+
+[awesome-autism](https://github.com/aspergirl-git/awesome-autism)*
 
 ## Contributing
-Your contributions are always welcome! Please take a look at the contribution guidelines first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](contributing.md) first.
